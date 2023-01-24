@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Sparse Matrix using Linked List</title>
-    <style>
-      /* Add CSS styles here */
-    </style>
   </head>
   <body>
     <h1>Sparse Matrix using Linked List</h1>
